@@ -1,3 +1,7 @@
+import sys
+# Adjust the path to include the directory of `ultralytics`
+sys.path.append(r'C:\Users\kobby\Downloads\YOLOv8_Segmentation_DeepSORT_Object_Tracking-main\Pothole-defect-detection\YOLOv8_Road_defect\ultralytics')
+
 # Ultralytics YOLO 🚀, GPL-3.0 license
 
 from copy import copy
