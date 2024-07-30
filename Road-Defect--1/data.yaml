@@ -1,0 +1,12 @@
+names:
+- pothole
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: road-defect-nxmfw
+  url: https://universe.roboflow.com/peter-kobena/road-defect-nxmfw/dataset/1
+  version: 1
+  workspace: peter-kobena
+test: ../test/images
+train: Road-Defect--1/train/images
+val: Road-Defect--1/valid/images
